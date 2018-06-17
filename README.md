@@ -1,5 +1,11 @@
 # Train-Scheduler - Firebase Assignment
 
+
+<h1 align="center">
+  <br>
+  <img src="https://github.com/Southerngirl13/Train-Scheduler/blob/master/assets/images/Train_Time_Image.png" width="60%">
+</h1>
+
 ### Overview
 
 In this assignment, we created a train schedule application that incorporates Firebase to host arrival and departure data. The app will retrieve and manipulate this information with Moment.js. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
@@ -39,3 +45,5 @@ In this assignment, we created a train schedule application that incorporates Fi
 * As a final challenge, make it so that only users who log into the site with their Google or GitHub accounts can use your site. You'll need to read up on Firebase authentication for this bonus exercise.
 
 - - -
+
+View Train-Scheduler here:  https://southerngirl13.github.io/Train-Scheduler/
